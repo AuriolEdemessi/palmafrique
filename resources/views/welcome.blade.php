@@ -65,6 +65,9 @@
 <ul>
 <li><a href="services.html">Présentation</a></li>
 <li><a href="service-details.html">Phototèque</a></li>
+
+</ul>
+</li>
 <li>
 <a href="about.html">CIP</a>
 </li>
@@ -74,9 +77,6 @@
 <li>
 <a href="about.html">Partenaires</a>
 </li>
-</ul>
-</li>
-
 
 </ul>
 
@@ -86,7 +86,7 @@
 <a href="tel:92-666-888-0000" class="main-header__info-phone">
 <i class="agrikon-icon-phone-call"></i>
 <span class="main-header__info-phone-content">
-<span class="main-header__info-phone-text">Call Anytime</span>
+<span class="main-header__info-phone-text">Contactez</span>
 <span class="main-header__info-phone-title">92 666 888 0000</span>
 </span>
 </a>
