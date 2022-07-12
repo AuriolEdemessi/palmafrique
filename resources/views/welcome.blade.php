@@ -81,13 +81,11 @@
 </ul>
 
 <div class="main-header__info">
-<a href="#" class="search-toggler main-header__search-btn"><i class="agrikon-icon-magnifying-glass"></i></a>
-<a class="main-header__cart-btn" href="#"><i class="agrikon-icon-shopping-cart"></i></a>
-<a href="tel:92-666-888-0000" class="main-header__info-phone">
-<i class="agrikon-icon-phone-call"></i>
+<a href="{{url('boutique')}}" class="main-header__info-phone">
+<i class="agrikon-icon-shopping-cart"></i>
 <span class="main-header__info-phone-content">
-<span class="main-header__info-phone-text">Contactez</span>
-<span class="main-header__info-phone-title">92 666 888 0000</span>
+<span class="main-header__info-phone-text">Découvrez nos</span>
+<span class="main-header__info-phone-title">PRODUITS</span>
 </span>
 </a>
 </div>
@@ -142,7 +140,7 @@ en AFRIQUE</h2>
 <div class="service-one__box">
 <img src="assets/images/services/service-1-1.jpg" alt="">
 <div class="service-one__box-content">
-<h3><a href="service-details.html">Agriculture Leader</a></h3>
+<h3><a href="service-details.html">TRADITION ET EXPERTISE AGRO-INDUSTRIELLE</a></h3>
 </div>
 </div>
 </div>
