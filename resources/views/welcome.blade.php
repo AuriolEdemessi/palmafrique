@@ -45,6 +45,8 @@
 <p>Bienvenue sur le site officiel de PALMAFRIQUE</p>
 </div>
 <div class="topbar__right">
+
+<a href="#"><i class="agrikon-icon-cell"></i><span class="__cf_email__" data-cfemail="a9c7cccccdc1ccc5d9e9cac6c4d9c8c7d087cac6c4">+225 07 07 12 23 23</span></a>
 <a href="#"><i class="agrikon-icon-email"></i><span class="__cf_email__" data-cfemail="a9c7cccccdc1ccc5d9e9cac6c4d9c8c7d087cac6c4">info@palmafrique.com</span></a>
 
 </div>
@@ -111,7 +113,7 @@
     }'>
 <div class="swiper-wrapper">
 <div class="swiper-slide">
-<div class="image-layer" style="background-image: url(assets/images/main-slider/main-slider-1-1.jpg);">
+<div class="image-layer" style="background-image: url(assets/images/main-slider/main.png);">
 </div>
 
 <div class="container">
@@ -148,7 +150,7 @@ en AFRIQUE</h2>
 <div class="service-one__box">
 <img src="assets/images/services/service-1-2.jpg" alt="">
 <div class="service-one__box-content">
-<h3><a href="service-details.html">Quality Standards</a></h3>
+<h3><a href="service-details.html">ENTREPRISE CITOYENNE</a></h3>
 </div>
 </div>
 </div>
@@ -156,7 +158,7 @@ en AFRIQUE</h2>
 <div class="service-one__box">
 <img src="assets/images/services/service-1-3.jpg" alt="">
 <div class="service-one__box-content">
-<h3><a href="service-details.html">Organic Services</a></h3>
+<h3><a href="service-details.html">PROXIMITE AVEC LES PLANTEURS VILLAGEOIS</a></h3>
 </div>
 </div>
 </div>
@@ -216,7 +218,7 @@ Solutions</a></h4>
 </div>
 </div>
 </section>
-<section class="service-two">
+<!--<section class="service-two">
 <div class="service-two__bottom-curv"></div>
 <div class="container">
 <div class="block-title text-center">
@@ -483,7 +485,7 @@ reprehenderit in esse nulla pariatur.</p>
 </div>
 <div class="swiper-pagination" id="testimonials-one__swiper-pagination"></div>
 </div>
-</section>
+</section>-->
 <section class="gray-boxed-wrapper home-one__boxed">
 <img src="assets/images/icons/home-1-blog-bg.png" alt="" class="home-one__boxed-bg">
 <div class="blog-home-two blog-home-one">

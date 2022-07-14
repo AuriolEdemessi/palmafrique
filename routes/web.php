@@ -28,3 +28,7 @@ Route::get('presentation', function () {
 Route::get('phototeque', function () {
     return view('phototeque');
 });
+
+Route::get('plan', function () {
+    return view('plan');
+});
